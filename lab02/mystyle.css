@@ -133,6 +133,12 @@
         background-color: #ffffff;
     }
     
+    pxgallery {
+        position: fixed;
+        top: 35px;
+        left: 335px;
+    }
+    
     table {
         border-collapse: collapse;
         width: 100%;
